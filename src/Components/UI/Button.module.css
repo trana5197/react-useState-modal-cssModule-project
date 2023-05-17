@@ -1,0 +1,17 @@
+.button-box {
+  margin: 35px 10px 10px 10px;
+}
+
+.button {
+  background-color: rgba(98, 63, 20, 0.53);
+
+  border: none;
+  border-radius: 9px;
+
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: -0.75px;
+
+  padding: 20px 40px;
+}
