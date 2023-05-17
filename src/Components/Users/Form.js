@@ -1,9 +1,10 @@
 import { useState, Fragment } from "react";
 import Button from "./../UI/Button";
 
-import classes from "./Form.module.css";
 import Card from "./../UI/Card";
 import ErrorModal from "../UI/ErrorModal";
+
+import classes from "./Form.module.css";
 
 const Form = (props) => {
   const [enteredUsername, setEnteredUsername] = useState("");
